@@ -18,7 +18,8 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "uisettings": "javascript"
   },
   "backend": {
     "imageid": "docker-swarm"
