@@ -1,0 +1,1 @@
+Scenario to create a new application
